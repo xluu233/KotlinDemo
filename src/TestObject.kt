@@ -1,9 +1,12 @@
 import `interface`.People
 
+/**
+ * 对象声明
+ */
 class TestObject {
 
     /**
-     * 单例对象
+     * 我们称之为Single object 就是“单例对象”
      */
     object SingleObject{
         //object声明的对象可以拥有方法和自己的属性
